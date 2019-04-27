@@ -35,3 +35,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script type='text/javascript'>
+    (function(m, ei, q, i, a, j, s) {
+        m[i] = m[i] || function() {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        j = ei.createElement(q),
+            s = ei.getElementsByTagName(q)[0];
+        j.async = true;
+        j.charset = 'UTF-8';
+        j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+        s.parentNode.insertBefore(j, s);
+    })(window, document, 'script', '_MEIQIA');
+    _MEIQIA('entId', 148196);
+</script>
