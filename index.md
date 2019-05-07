@@ -35,7 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-<script type='text/javascript'>
+
+    <script type='text/javascript'>
     (function(m, ei, q, i, a, j, s) {
         m[i] = m[i] || function() {
             (m[i].a = m[i].a || []).push(arguments)
@@ -48,4 +49,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
         s.parentNode.insertBefore(j, s);
     })(window, document, 'script', '_MEIQIA');
     _MEIQIA('entId', 148196);
-    <script src='http://w1.ttkefu.com/k/?fid=1B1BDDC2'  charset=utf-8></script><div style='display:none;'><a href='http://www.ttkefu.com'>在线客服系统</a></div>
+</script>
+<script src='http://w1.ttkefu.com/k/?fid=1B1BDDC2'  charset=utf-8></script><div style='display:none;'><a href='http://www.ttkefu.com'>在线客服系统</a></div>
